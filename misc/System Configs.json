@@ -1,0 +1,55 @@
+{
+  "type": "object",
+  "properties": {
+    "nota_final": {
+      "type": "integer"
+    },
+    "criterios": {
+      "type": "object",
+      "properties": {
+        "apresentacao_acolhimento": {
+          "type": "integer"
+        },
+        "atencao": {
+          "type": "integer"
+        },
+        "escrita": {
+          "type": "integer"
+        },
+        "respostas_incompletas": {
+          "type": "integer"
+        },
+        "analise_sondagem": {
+          "type": "integer"
+        },
+        "cordialidade_empatia": {
+          "type": "integer"
+        },
+        "uso_respostas_prontas": {
+          "type": "integer"
+        },
+        "avaliacao_tecnica": {
+          "type": "integer"
+        },
+        "registro": {
+          "type": "integer"
+        },
+        "encerramento_despedida": {
+          "type": "integer"
+        },
+        "observacoes_diretrizes_gerais": {
+          "type": "string"
+        }
+      }
+    },
+    "falha_grave_detectada": {
+      "type": "boolean"
+    },
+    "falha_grave_observacao": {
+      "type": "string"
+    },
+    "observacoes_gerais": {
+      "type": "string"
+    }
+  }
+}

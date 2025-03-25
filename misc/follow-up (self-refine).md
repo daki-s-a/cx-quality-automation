@@ -1,0 +1,1 @@
+Muito obrigado por apresentar o rascunho da avaliação com o plano de resolução claro! Agora, levando em consideração que as diretrizes de avaliação são as mesmas (pontuações, falhas graves, etc.), sua função é **REVISAR** a avaliação anterior. Se encontrar inconsistências ou falhas, corrija, por favor. Apresente, novamente, seu raciocínio completo.
